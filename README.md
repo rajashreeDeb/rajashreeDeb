@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently exploring Machine learning & AI
 
-- 👨‍💻 Know me more <a href="https://6585dc4b215c8c008a6c9b90--taupe-griffin-5f1bf7.netlify.app/" style="text-decoration: none;">Portfolio</a>
+- 👨‍💻 Know me more <a href=" " style="text-decoration: none;">Portfolio</a>
 
-- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=nayanK092@gmail.com" style="text-decoration: none;">Email</a>
+- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rajashree.deb06@gmail.com" style="text-decoration: none;">Email</a>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
