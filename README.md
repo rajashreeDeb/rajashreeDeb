@@ -1,6 +1,6 @@
 <div align="center" >
-<!--   <img width="400" src="https://giphy.com/gifs/work-woman-backtowork-wGLJGPs255ucRRB9c5" alt="coding"> -->
-  <iframe src="https://giphy.com/embed/wGLJGPs255ucRRB9c5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/work-woman-backtowork-wGLJGPs255ucRRB9c5">via GIPHY</a></p>
+  <img width="400" src="[https://giphy.com/gifs/work-woman-backtowork-wGLJGPs255ucRRB9c5](https://giphy.com/embed/wGLJGPs255ucRRB9c5)" alt="coding">
+<!--   <iframe src="https://giphy.com/embed/wGLJGPs255ucRRB9c5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/work-woman-backtowork-wGLJGPs255ucRRB9c5">via GIPHY</a></p> -->
 </div>
 
 <h1 align="center">Hi 👋, I am Rajashree Deb</h1>
