@@ -11,7 +11,7 @@
 </p>
 
 ### 🙋‍♂️ About Me
-- 🧑🏻‍🦰 I'm a sophomore at KIIT Bhubaneswar studying Computer Science
+- 🧑🏻‍🦰 I'm a 3rd year Engineering student at KIIT University, Bhubaneswar studying Computer Science
 
 - 🔭 I’m looking to contribute to Open Source
 
