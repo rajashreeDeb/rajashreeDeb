@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHgzNjhjY2U3dGk1dHVwbWNxdHhhNXRyOThpajY5eGdib2pienBqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wGLJGPs255ucRRB9c5/giphy.gif)" alt="coding">
+  <img width="400" src="https://giphy.com/gifs/work-woman-backtowork-wGLJGPs255ucRRB9c5" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I am Rajashree Deb</h1>
