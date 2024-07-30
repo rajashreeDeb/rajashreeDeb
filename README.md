@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Rajashree Deb</h1>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=FFD95A&width=600&height=45&lines=I+am+a+Full+Stack+Web+Developer;I+am+a+Front-end+Developer;I+am+a+Back-end+Developer;I+am+a+React+Developer;I+am+an+open+source+contributor;I+am+a+Android+Developer" alt="Typing SVG" style="margin-left: 50px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=FFD95A&width=600&height=45&lines=I+am+a+Full+Stack+Web+Developer;I+am+a+Front-end+Developer;I+am+a+Back-end+Developer;I+am+an+open+source+contributor;" alt="Typing SVG" style="margin-left: 50px;">
 </div>
 
 
