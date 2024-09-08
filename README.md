@@ -1,4 +1,4 @@
-Nayan, [9/8/2024 1:59 AM]
+
 <div align="center" >
   <img width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
 </div>
